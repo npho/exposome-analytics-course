@@ -1,2 +1,2 @@
 # exposome-analytics-course
-Code, slides, and workbooks for executing exposome analyses with XWAS
+Example code, workbooks, and course slides on executing exposome analyses with XWAS
